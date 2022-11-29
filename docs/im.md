@@ -29,6 +29,7 @@
 	- [Matrix 客户端](https://matrix.org/clients/)
 		- [Element](https://element.io/) – Windows/macOS/Linux/Android/iOS/[Web](https://app.element.io/)
 		- [FluffyChat](https://fluffychat.im/) – Linux/Android/iOS/Web
+		- [cinny](https://cinny.in/) – [Web](https://app.cinny.in/)
 		- ...
 	- [Matrix 教程 1](https://mastodon.online/@baoyue/109195419891683229)
 	- [Matrix 教程 2](https://bin.moritz-fromm.de/?b717fdf35b2cb4a6#CFgneMrHtF4T35vEN3SaGkZRZ6ZHAA3oX5Kr79UBVTFz)（作者[在江湖而遠江湖](https://me.ns.ci/@zaijianghueryuanjianghu)。如有错请指正）
