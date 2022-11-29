@@ -146,7 +146,7 @@ https://bgme.me/users/jumptowardsnight/statuses/109421789020447063
 
 https://bgme.me/@yukitskitsururinnn/109422148448969935
 
-## 3 删除内容
+## 3.删除内容
 
 ### Android
 
