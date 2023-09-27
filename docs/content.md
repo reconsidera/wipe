@@ -10,9 +10,7 @@
 
 ---
 
-## 匿名网盘  
-- [AnonFile](https://anonfiles.com) – 单个文件上限 20 GB；无带宽限制  
-- [filechan](https://filechan.org/) – 同上  
+## 匿名网盘    
 - [ufile](https://ufile.io) – 单个文件上限 5 GB  
 - [uptobox](https://uptobox.com/) – 单个文件上限 1 GB  
 
